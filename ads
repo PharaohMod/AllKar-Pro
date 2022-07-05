@@ -1,9 +1,10 @@
 {
-"takeComs":true,
-"App_id":"211877141",
-"showRamdom":true,
+"showStartApp":true,
+"startapp":"211877141",
+"showUnity":false,
 "unity":"",
 "interval":"",
+"showAdmob":false"
 "banner":"",
 "interstitial":"",
 "rewarded":""
