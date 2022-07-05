@@ -1,9 +1,9 @@
 {
-  "showStartApp": true,
+  "showStartApp":false,
   "startapp": "211877141",
   "showUnity": false,
   "unity": "",
-  "showAdmob": false,
+  "showAdmob": true,
   "banner": "",
   "interstitial": "ca-app-pub-3940256099942544/8691691433",
   "rewarded": "",
