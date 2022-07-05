@@ -8,6 +8,7 @@
   "interstitial": "",
   "rewarded": "",
   "interval": "10000",
+  "click": "5",
   "password": "၆၆၆၆၆၆",
   "src": "",
   "allvideo": "https://script.google.com/macros/s/AKfycbyyVIE-kacFEp4fLcaojsrcTheiRtLz1VaH-bZfVhQjYId-pVSb/exec",
