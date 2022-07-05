@@ -7,5 +7,7 @@
 "showAdmob":false"
 "banner":"",
 "interstitial":"",
-"rewarded":""
+"rewarded":"",
+"password":"၆၆၆၆၆၆",
+"src":""
 }
