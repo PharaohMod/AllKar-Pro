@@ -3,7 +3,7 @@
 "startapp":"211877141",
 "showUnity":false,
 "unity":"",
-"interval":"",
+"interval":"1000",
 "showAdmob":false"
 "banner":"",
 "interstitial":"",
