@@ -1,13 +1,13 @@
 {
-"showStartApp":true,
-"startapp":"211877141",
-"showUnity":false,
-"unity":"",
-"interval":"1000",
-"showAdmob":false"
-"banner":"",
-"interstitial":"",
-"rewarded":"",
-"password":"၆၆၆၆၆၆",
-"src":""
+  "showStartApp": true,
+  "startapp": "211877141",
+  "showUnity": false,
+  "unity": "",
+  "showAdmob": false,
+  "banner": "",
+  "interstitial": "",
+  "rewarded": "",
+  "interval": "1000",
+  "password": "၆၆၆၆၆၆",
+  "src": ""
 }
